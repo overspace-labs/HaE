@@ -27,6 +27,7 @@ Clone with submodules:
 
 1. [Selected for the 2022 KCon Arsenal](https://mp.weixin.qq.com/s/JohMsl1WD29LHCHuLf8mVQ)
 2. [Recognized as a GitCode G-Star Project](https://gitcode.com/gh0stkey/HaE)
+3. [Most nominated award in the 2026 Burp Extension Awards](https://portswigger.net/blog/burp-extensibility-2026-awards-talks-and-highlights)
 
 ## Appreciation List
 

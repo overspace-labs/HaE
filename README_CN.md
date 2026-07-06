@@ -28,6 +28,7 @@ GitHub项目地址：https://github.com/overspace-labs/HaE
 
 1. [入选2022年KCon兵器谱](https://mp.weixin.qq.com/s/JohMsl1WD29LHCHuLf8mVQ)
 2. [入选GitCode G-Star项目](https://gitcode.com/gh0stkey/HaE)
+3. [入选2026年Burp扩展奖项中最受提名奖](https://portswigger.net/blog/burp-extensibility-2026-awards-talks-and-highlights)
 
 ## 赞赏榜单
 
