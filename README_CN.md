@@ -12,7 +12,6 @@ README 版本: \[[English](README.md) | [简体中文](README_CN.md)\]
 
 当前仓库作为 HaE 项目的品牌主仓使用，`src/` 下的产品目录以 Git submodule 形式挂载，实际源码在下方列出的独立仓库中维护。
 
-
 GitHub项目地址：https://github.com/overspace-labs/HaE
 
 独立产品仓库：
