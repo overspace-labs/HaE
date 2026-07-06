@@ -23,6 +23,8 @@ GitHub项目地址：https://github.com/overspace-labs/HaE
 
 `git clone --recurse-submodules https://github.com/overspace-labs/HaE.git`
 
+HaE官方验证器仓库（AI+）：https://github.com/overspace-labs/HaEValidator
+
 **所获荣誉**:
 
 1. [入选2022年KCon兵器谱](https://mp.weixin.qq.com/s/JohMsl1WD29LHCHuLf8mVQ)

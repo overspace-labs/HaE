@@ -23,6 +23,8 @@ Clone with submodules:
 
 `git clone --recurse-submodules https://github.com/overspace-labs/HaE.git`
 
+Official HaE validator repository (AI+): https://github.com/overspace-labs/HaEValidator
+
 **Awards and Recognitions**:
 
 1. [Selected for the 2022 KCon Arsenal](https://mp.weixin.qq.com/s/JohMsl1WD29LHCHuLf8mVQ)
