@@ -1,7 +1,7 @@
 <div align="center">
 <img src="resource/image/logo.png" style="width: 20%" />
-<h4><a href="https://github.com/gh0stkey/HaE">Empower ethical hacker for efficient operations.</a></h4>
-<h5>Network version: <a href="https://github.com/gh0stkey/HaE/tree/main/src/HaENet">main/src/HaENet</a><br>File version: <a href="https://github.com/gh0stkey/HaE/tree/main/src/HaEFile">main/src/HaEFile</a>
+<h4><a href="https://github.com/overspace-labs/HaE">Empower ethical hacker for efficient operations.</a></h4>
+<h5>Network version: <a href="https://github.com/overspace-labs/HaENet">overspace-labs/HaENet</a><br>File version: <a href="https://github.com/overspace-labs/HaEFile">overspace-labs/HaEFile</a>
 </div>
 
 README Version: \[[English](README.md) | [简体中文](README_CN.md)\]
@@ -10,7 +10,15 @@ README Version: \[[English](README.md) | [简体中文](README_CN.md)\]
 
 **HaE** is a framework-style project in the field of **cybersecurity (data security)**, adopting a **Lego brick-style** modular design philosophy to achieve fine-grained tagging and extraction of File and HTTP messages (including WebSocket).
 
-GitHub project address: https://github.com/gh0stkey/HaE
+This repository is the umbrella repository for the HaE project. Product source code is maintained in the dedicated repositories listed below.
+
+
+GitHub project address: https://github.com/overspace-labs/HaE
+
+Dedicated product repositories:
+
+1. HaE Network: https://github.com/overspace-labs/HaENet
+2. HaE File: https://github.com/overspace-labs/HaEFile
 
 GitCode project address: https://gitcode.com/gh0stkey/HaE
 
