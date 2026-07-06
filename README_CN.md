@@ -10,7 +10,7 @@ README 版本: \[[English](README.md) | [简体中文](README_CN.md)\]
 
 **HaE**是一款**网络安全（数据安全）领域**下的框架式项目，采用了**乐高积木式**模块化设计理念，实现对本地文件和HTTP消息（包含WebSocket）精细化的标记和提取。
 
-当前仓库作为 HaE 项目的品牌主仓使用，产品源码已迁移至下方列出的独立仓库中维护。
+当前仓库作为 HaE 项目的品牌主仓使用，`src/` 下的产品目录以 Git submodule 形式挂载，实际源码在下方列出的独立仓库中维护。
 
 
 GitHub项目地址：https://github.com/overspace-labs/HaE
@@ -20,7 +20,9 @@ GitHub项目地址：https://github.com/overspace-labs/HaE
 1. HaE Network：https://github.com/overspace-labs/HaENet
 2. HaE File：https://github.com/overspace-labs/HaEFile
 
-GitCode项目地址：https://gitcode.com/gh0stkey/HaE
+带 submodule 的克隆方式：
+
+`git clone --recurse-submodules https://github.com/overspace-labs/HaE.git`
 
 **所获荣誉**:
 

@@ -1,0 +1,8 @@
+[submodule "src/HaEFile"]
+	path = src/HaEFile
+	url = https://github.com/overspace-labs/HaEFile.git
+	branch = main
+[submodule "src/HaENet"]
+	path = src/HaENet
+	url = https://github.com/overspace-labs/HaENet.git
+	branch = main

@@ -10,8 +10,7 @@ README Version: \[[English](README.md) | [简体中文](README_CN.md)\]
 
 **HaE** is a framework-style project in the field of **cybersecurity (data security)**, adopting a **Lego brick-style** modular design philosophy to achieve fine-grained tagging and extraction of File and HTTP messages (including WebSocket).
 
-This repository is the umbrella repository for the HaE project. Product source code is maintained in the dedicated repositories listed below.
-
+This repository is the umbrella repository for the HaE project. The product directories under `src/` are mounted as Git submodules, while source code is maintained in the dedicated repositories listed below.
 
 GitHub project address: https://github.com/overspace-labs/HaE
 
@@ -20,7 +19,9 @@ Dedicated product repositories:
 1. HaE Network: https://github.com/overspace-labs/HaENet
 2. HaE File: https://github.com/overspace-labs/HaEFile
 
-GitCode project address: https://gitcode.com/gh0stkey/HaE
+Clone with submodules:
+
+`git clone --recurse-submodules https://github.com/overspace-labs/HaE.git`
 
 **Awards and Recognitions**:
 
