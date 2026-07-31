@@ -43,9 +43,6 @@ HaE官方验证器仓库（AI+）：https://github.com/overspace-labs/HaEValidat
 <img src="resource/image/reward.jpeg" style="width: 30%" />
 </div>
 
-## 404StarLink 2.0 - Galaxy
-
-![404StarLink Logo](https://github.com/knownsec/404StarLink-Project/raw/master/logo.png)
 
 `HaE` 是 404Team [星链计划2.0](https://github.com/knownsec/404StarLink2.0-Galaxy) 中的一环，如果对 `HaE` 有任何疑问又或是想要找小伙伴交流，可以参考星链计划的加群方式。
 
