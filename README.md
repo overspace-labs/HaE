@@ -43,10 +43,3 @@ If you find HaE useful, you can show your appreciation by donating to the author
 <img src="resource/image/reward.jpeg" style="width: 30%" />
 </div>
 
-## 404StarLink 2.0 - Galaxy
-
-![404StarLink Logo](https://github.com/knownsec/404StarLink-Project/raw/master/logo.png)
-
-`HaE` is part of the 404Team's [Starlink Plan 2.0](https://github.com/knownsec/404StarLink2.0-Galaxy). If you have any questions about `HaE` or want to connect with other users, you can refer to the group joining methods provided by the Starlink Plan.
-
-- [https://github.com/knownsec/404StarLink2.0-Galaxy#community](https://github.com/knownsec/404StarLink2.0-Galaxy#community)
