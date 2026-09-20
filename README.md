@@ -43,3 +43,6 @@ If you find HaE useful, you can show your appreciation by donating to the author
 <img src="resource/image/reward.jpeg" style="width: 30%" />
 </div>
 
+## Links
+
+Linux Do Community: https://linux.do
